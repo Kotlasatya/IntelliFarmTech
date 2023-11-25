@@ -1,13 +1,1 @@
 seaborn
-numpy
-pandas
-streamlit
-base64
-pickle
-io
-PIL
-matplotlib
-plotly
-operator
-sklearn
-warnings
